@@ -14,8 +14,8 @@
 <hr>
 
 ### ⚡ Habilidades:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) 
-![CSS](https://img.shields.io/badge/-CSS-349beb?&logo=Css3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-ede724?&logo=javascript&logoColor=FFFFFF)
+-  ![React-Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) 
+![CSS](https://img.shields.io/badge/-CSS-349beb?&logo=Css3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-ede724?&logo=javascript&logoColor=FFFFFF)![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) [Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ### 📦 Databases:
