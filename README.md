@@ -15,7 +15,7 @@
 
 ### ⚡ Habilidades:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) 
-![CSS](https://img.shields.io/badge/-CSS-349beb?&logo=Css3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-d1d24d?&logo=javascript&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/-CSS-349beb?&logo=Css3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JavaScript-ede724?&logo=javascript&logoColor=FFFFFF)
 
 
 ### 📦 Databases:
