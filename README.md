@@ -38,7 +38,7 @@
 ## ✅ Entre em contato! ✉️
 
 [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/joaopver10)](https://github.com/joaopver10)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](www.linkedin.com/in/joão-pedro-vitorino)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/joão-pedro-vitorino)
 [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:joaopver10@outlook.com)](mailto:joaopver10@outlook.com)
 
 
