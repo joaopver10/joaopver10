@@ -30,7 +30,7 @@
  
 [![João Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopver10&theme=cobalt&show_icons=true)](https://github.com/joaopver10/github-readme-stats)
 
-### 📈  linguagens mais usadas 
+### 📈  Linguagens mais usadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopver10&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
