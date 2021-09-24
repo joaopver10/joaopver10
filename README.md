@@ -3,7 +3,7 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **João Pedro**, tenho 21 anos e estou no 4º Período.
+- 👋 Me chamo **João Pedro**, tenho 22 anos e estou no 5º Período.
 - 📌 Sou de Belford Roxo, Rio de janeiro, Brasil.
 - 💼 Atualmente sou estudante de Sistemas da informação na **Universidade Unigranrio**.
 - 🎓 Sou formado em diversos **Cursos Online**, faço muitas **Pesquisas** e possuo muita **Prática**! 
