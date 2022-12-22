@@ -26,15 +26,6 @@
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
 
 
-### :bulb:  Estatísticas gerais 
- 
-[![João Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopver10&theme=cobalt&show_icons=true)](https://github.com/joaopver10/github-readme-stats)
-
-### 📈  Linguagens mais usadas 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopver10&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
-
-<hr>
-
 ## ✅ Entre em contato! ✉️
 
 [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/joaopver10)](https://github.com/joaopver10)
