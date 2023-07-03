@@ -3,13 +3,12 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **João Pedro**, tenho 23 anos e estou no 8º Período.
+- 👋 Me chamo **João Pedro**, tenho 23 anos e sou formado em Sistemas da informação.
 - 📌 Sou de Belford Roxo, Rio de janeiro, Brasil.
-- 💼 Atualmente sou estudante de Sistemas da informação na **Universidade Unigranrio**.
+- 💼 Bacharelado em Sistemas da informação na **Universidade Unigranrio**.
 - 🎓 Sou formado em diversos **Cursos Online**, faço muitas **Pesquisas** e possuo muita **Prática**! 
 - 💬 Pergunte-me sobre **JavaScript e seus Frameworks**, posso te ajudar!
 - 🛠️ Estudando para me tornar um **Desenvolvedor Full Stack**.
-- 🔭 Curiosidades: Termino a faculdade em 2023/1.
 
 <hr>
 
