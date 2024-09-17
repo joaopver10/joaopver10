@@ -3,7 +3,7 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **João Pedro**, tenho 24 anos e sou formado em Sistemas da informação.
+- 👋 Me chamo **João Pedro**, tenho 25 anos e sou formado em Sistemas da informação.
 - 📌 Sou de Belford Roxo, Rio de janeiro, Brasil.
 - 💼 Bacharelado em Sistemas da informação na **Universidade Unigranrio**.
 - 🎓 Sou formado em diversos **Cursos Online**, faço muitas **Pesquisas** e possuo muita **Prática**! 
