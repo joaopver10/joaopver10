@@ -3,12 +3,11 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **João Pedro**, tenho 26 anos e sou formado em Sistemas da informação com especialização em ADM de banco de dados e Devops.
-- 📌 Sou de Belford Roxo, Rio de janeiro, Brasil.
+- 👋 Me chamo **João Pedro**, sou formado em Sistemas da informação com especialização em ADM de banco de dados e Devops.
+- 📌 Sou do Rio de janeiro, Brasil.
 - 💼 Bacharelado em Sistemas da informação na **Universidade Unigranrio**.
 - 🎓 Sou formado em diversos **Cursos Online**, faço muitas **Pesquisas** e possuo muita **Prática**! 
-- 💬 Pergunte-me sobre **JavaScript e seus Frameworks**, posso te ajudar!
-- 🛠️ Estudando para me tornar um **Desenvolvedor Full Stack**.
+
 
 <hr>
 
@@ -28,7 +27,7 @@
 ## ✅ Entre em contato! ✉️
 
 [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/joaopver10)](https://github.com/joaopver10)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-vitorino)](https://www.linkedin.com/in/joão-pedro-vitorino)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-vitorino)](https://www.linkedin.com/in/joao-pedro-vitorino)
 [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:joaopver10@outlook.com)](mailto:joaopver10@outlook.com)
 
 
